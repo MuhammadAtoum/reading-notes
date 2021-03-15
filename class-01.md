@@ -1,4 +1,4 @@
-# Structure
+# what is Structure
 - In all kinds of documents, structure is very important in helping
 readers to understand the messages you are trying to convey
 and to navigate around the document
@@ -56,7 +56,7 @@ The header and footer elements can be used for..
 - You can use grouping and similarity to help simplify the information you present.
 
 
-# The ABC of Programming
+# what is The ABC of Programming
 ## A
 - A script is a series of instructions that the computer can follow in order to achieve a goal.
 - Each time the script runs, it might only use a subset of all the instructions.
