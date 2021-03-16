@@ -52,4 +52,12 @@
 - You can include multiple CSS files in one page.
 
 
+# WHAT IS A FUNCTION?
+
+Functions let you group a series of statements together to perform a specific task. If different parts of a script repeat the same task, you can reuse the function (rather than repeating the same set of st atements).
+
+# MEMORY & VARIABLES WORK
+Global variables use more memory. The browser has to remember them
+for as long as the web page using them is loaded. Local variables are only
+remembered during the period of time that a function is being executed.
 
