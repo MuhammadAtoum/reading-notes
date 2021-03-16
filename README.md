@@ -8,7 +8,7 @@
 |read 01|https://muhammadatoum.github.io/reading-notes/class-01|
 |read02|https://muhammadatoum.github.io/reading-notes/class-02|
 |read03|https://muhammadatoum.github.io/reading-notes/class-03|
-|read04|-----|
+|read04|https://muhammadatoum.github.io/reading-notes/read_04|
 |-----|-----|
 |-----|-----|
 |-----|-----|
